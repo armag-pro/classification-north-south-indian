@@ -221,13 +221,13 @@ To address these problem, authors of the ResNet architecture came up with the id
 * [Google Drive](https://www.google.com/drive/) - File storage and synchronization service developed by Google
 
 ## Authors
-
+(University Project group under the mentorship of Prof. Suneeta Agarwal)
+* **Tuhin Subhra Patra** - [armag-pro](https://github.com/armag-pro) (Team Leader)
 * **Rajat Dipta Biswas** - [rajatdiptabiswas](https://github.com/rajatdiptabiswas)
-* **Tuhin Subhra Patra** - [armag-pro](https://github.com/armag-pro)
-* **S Pranav Ganesh**
 * **Upmanyu Jamwal**
+* **S Pranav Ganesh**
 
-See also the list of [contributors](https://github.com/rajatdiptabiswas/GeoARgraphy/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/armag-pro/classification-north-south-indian/graphs/contributors) who participated in this project.
 
 ## License
 
